@@ -84,8 +84,8 @@ Add screenshots of the dashboard here
 
 Example:
 
-/screenshots/dashboard_overview.png
-/screenshots/state_analysis.png
+/screenshots/dashboard1.png
+/screenshots/dashboard2.png
 
 🚀 How to Use
 
@@ -106,3 +106,4 @@ Integrate real-time data sources
 
 
 Add district-level analysis
+
