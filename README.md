@@ -84,8 +84,8 @@ Add screenshots of the dashboard here
 
 Example:
 
-/screenshots/Dashboard1.png
-/screenshots/Dashboard2.png
+[screenshots/Dashboard1.png](https://github.com/kadupratiksha101/Cyber-Analysis/blob/main/Dashboard1.png)
+[screenshots/Dashboard2.png](https://github.com/kadupratiksha101/Cyber-Analysis/blob/main/Dashboard2.png)
 
 🚀 How to Use
 
@@ -106,6 +106,7 @@ Integrate real-time data sources
 
 
 Add district-level analysis
+
 
 
 
